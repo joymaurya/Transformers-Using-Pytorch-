@@ -2,6 +2,7 @@
 
 ## What I implemented?
 Created a translation model (English To Spanish) using Transformers.
+Transformer is implemented using pytorch having seperate encoder and decoder block.
 
 ## Model Specifications:
 d_model->64
