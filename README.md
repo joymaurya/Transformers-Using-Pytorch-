@@ -22,3 +22,6 @@ number of decoder_layers=2
 ## Sample Input Data
 
 ![Alt text](/sample_input.png)
+## Training
+Epochs:15
+Time: 2 min/Epoch (approx)
