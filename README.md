@@ -19,3 +19,5 @@ number of decoder_layers=2
 ![Alt text](/transformer_structure.png)
 
 ## Sample Input Data
+
+![Alt text](/sample_input.png)
