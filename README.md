@@ -17,3 +17,5 @@ number of encoder_layers=2
 number of decoder_layers=2
 
 ![Alt text](/transformer_structure.png)
+
+## Input Data
