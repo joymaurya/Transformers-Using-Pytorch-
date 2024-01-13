@@ -16,4 +16,4 @@ number of encoder_layers=2
 
 number of decoder_layers=2
 
-![Alt text]()
+![Alt text](/transformer_structure.png)
